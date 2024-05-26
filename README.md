@@ -1,0 +1,7 @@
+Tanks in python (3.8.10)
+Tanks version: 1.1
+Management:
+right: d
+bottom: s
+left: a
+up: w
